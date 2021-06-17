@@ -21,7 +21,7 @@
 title:            'Historia Friki'
 description:      'A photo archive of underground cultures in Cuba'
 url:              ''
-baseurl:          '/wax'
+baseurl:          '/historiafriki'
 copyright:        'What if you dont want copyright?'
 logo:             '/assets/logo.png'
 
