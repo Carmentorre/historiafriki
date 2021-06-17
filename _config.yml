@@ -18,11 +18,11 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Historia Friki'
-description:      'A photo archive of underground cultures in Cuba'
+title:            'Slavery in the Caribbean'
+description:      'Group project for The Oaks'
 url:              ''
 baseurl:          '/historiafriki'
-copyright:        'What if you dont want copyright?'
+copyright:        ''
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------

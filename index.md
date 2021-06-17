@@ -8,14 +8,8 @@ banner:
   height: '500px'
 ---
 
-__This is only a test__ in preparation for the digital archive I want to create on Cuban Frikis. I have previously built an Omeka site on [Cuban punk](http://punkcubano.net/) where anyone interested can listen to some underground music! Here is a video from one of my favorite Cuban punk bands, Adictox (although the song is actually a cover from Spain's own Eskorbuto)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cO5WbL_Cs0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-I am forever grateful to Alex and Marii for teaching us all the basics of **Wax**.
-
-The collection items in this demo were collected by our team (The Oaks) and were built upon work previously done by our teammate Kijan.
+Welcome to **The Oaks' sample Wax Site**! This is a humble combination of the group work we did (we created a collection based on work previously conducted by Kijan on slavery in the Caribbean) plus some personal additions on Cuban Frikis, which is the project I hope to publish on Wax in the near future. 
 
 ### Check out what we did
 
-{% include collection_gallery.html facet_by='_date' collection='dreamlab' %}
+{% include collection_gallery.html facet_by='location' collection='dreamlab' %}
