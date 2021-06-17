@@ -1,0 +1,205 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "obj001",
+    "label": "Market women",
+    "_date": "20th century",
+    "location": "Jamaica",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj001/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj001",
+    "lunr_id": 0
+  },
+  {
+    "pid": "obj002",
+    "label": "Market women",
+    "_date": "20th century",
+    "location": "Jamaica",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj002/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj002",
+    "lunr_id": 1
+  },
+  {
+    "pid": "obj003",
+    "label": "(title not legible)",
+    "_date": "20th century",
+    "location": "Jamaica",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj003/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj003",
+    "lunr_id": 2
+  },
+  {
+    "pid": "obj004",
+    "label": "The Barbados Mulatto Girl",
+    "_date": "1770",
+    "location": "Barbados",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj004/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj004",
+    "lunr_id": 3
+  },
+  {
+    "pid": "obj005",
+    "label": "Sunday Morning in the Country",
+    "_date": "1830s",
+    "location": "Trinidad",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj005/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj005",
+    "lunr_id": 4
+  },
+  {
+    "pid": "obj006",
+    "label": "washerwomen, Jamaica",
+    "_date": "1880",
+    "location": "Jamaica",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj006/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj006",
+    "lunr_id": 5
+  },
+  {
+    "pid": "obj007",
+    "label": "town, women in field",
+    "_date": "1880",
+    "location": "Jamaica",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj007/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj007",
+    "lunr_id": 6
+  },
+  {
+    "pid": "obj008",
+    "label": "washerwomen and market women, Jamaica",
+    "_date": "1880",
+    "location": "Jamaica",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj008/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj008",
+    "lunr_id": 7
+  },
+  {
+    "pid": "obj009",
+    "label": "Native hut and West India Regiment in Jamaica",
+    "_date": "1880",
+    "location": "Jamaica",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj009/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj009",
+    "lunr_id": 8
+  },
+  {
+    "pid": "obj010",
+    "label": "Cane cutters in Jamaica",
+    "_date": "1880",
+    "location": "Jamaica",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj010/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj010",
+    "lunr_id": 9
+  },
+  {
+    "pid": "obj011",
+    "label": "David I & our waitress, Mrs. Mary Roberts",
+    "_date": "1939-1940",
+    "location": "Dominican Republic",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj011/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj011",
+    "lunr_id": 10
+  },
+  {
+    "pid": "obj012",
+    "label": "Flor Marras waitress & Gilda",
+    "_date": "1939-1940",
+    "location": "Dominican Republic",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj012/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj012",
+    "lunr_id": 11
+  },
+  {
+    "pid": "obj013",
+    "label": "Marras Salas Supplier",
+    "_date": "1939-1940",
+    "location": "Dominican Republic",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj013/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj013",
+    "lunr_id": 12
+  },
+  {
+    "pid": "obj014",
+    "label": "Where we 'put up' on way to Juanillo",
+    "_date": "1939-1940",
+    "location": "Dominican Republic",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj014/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj014",
+    "lunr_id": 13
+  },
+  {
+    "pid": "obj015",
+    "label": null,
+    "_date": "1939-1940",
+    "location": "Dominican Republic",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj015/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj015",
+    "lunr_id": 14
+  },
+  {
+    "pid": "obj016",
+    "label": "Negro Portraits, 16 small drawings with notations",
+    "_date": "1808-1816",
+    "location": "Jamaica",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj016/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj016",
+    "lunr_id": 15
+  },
+  {
+    "pid": "obj017",
+    "label": "The West Indian Atlas",
+    "_date": "1775",
+    "location": "West Indies",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj017/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj017",
+    "lunr_id": 16
+  },
+  {
+    "pid": "obj018",
+    "label": "Digging holes for planting sugar cane",
+    "_date": "1823",
+    "location": "Antigua",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj018/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj018",
+    "lunr_id": 17
+  },
+  {
+    "pid": "obj019",
+    "label": "Planting Sugar Cane",
+    "_date": "1823",
+    "location": "Antigua",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj019/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj019",
+    "lunr_id": 18
+  },
+  {
+    "pid": "obj020",
+    "label": "The Fruit Market at St. Vincent",
+    "_date": "1804",
+    "location": "St. Vincent",
+    "collection": "dreamlab",
+    "thumbnail": "/img/derivatives/iiif/images/obj020/full/250,/0/default.jpg",
+    "permalink": "/dreamlab/obj020",
+    "lunr_id": 19
+  }
+]
