@@ -9,12 +9,12 @@ permalink: /exhibits/a/
 This is a selection of photographs belonging to a personal album. They represent the sugar bourgeoisie, plantation owners, and laborers from a plantation in the Dominican Republic. Pictures go back to 1939-1940.
 
 
-{% include parallax_image.html collection='dreamlab' pid='obj011' y='50%' %}
+{% include inline_image.html collection='dreamlab' pid='obj011' %}
 
-{% include parallax_image.html collection='dreamlab' pid='obj012' y='50%' %}
+{% include inline_image.html collection='dreamlab' pid='obj012' %}
 
-{% include parallax_image.html collection='dreamlab' pid='obj013' y='50%' %}
+{% include inline_image.html collection='dreamlab' pid='obj013' %}
 
-{% include parallax_image.html collection='dreamlab' pid='obj014' y='50%' %}
+{% include inline_image.html collection='dreamlab' pid='obj014' %}
 
-{% include parallax_image.html collection='dreamlab' pid='obj015' y='50%' %}
+{% include inline_image.html collection='dreamlab' pid='obj015' %}
